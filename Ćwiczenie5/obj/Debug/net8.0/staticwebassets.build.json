@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ov9cNKkQOX8eUo4KetOZQGIyNKbXYzjuxWNfFoXZG1s=",
+  "Source": "TripApi",
+  "BasePath": "_content/TripApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
